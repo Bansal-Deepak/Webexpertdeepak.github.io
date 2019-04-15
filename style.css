@@ -1,0 +1,18 @@
+.myStyle p:nth-child(n+1){
+	color:green;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+
+#stylingid{
+	color:blue;
+	font-size: 30px;
+	font-weight: bolder;
+}
+ 
+ a:visited{
+ 	color:red;
+ 	
+ }
